@@ -1,0 +1,1 @@
+Ce dossier exécute tous les algos avec les instances d'Hélène: il faut utiliser submitdataHe.sh
